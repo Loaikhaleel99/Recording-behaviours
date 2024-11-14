@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html lang="ar">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>مراقبة سلوك الطفل باستخدام الكاميرة</title>
+    <title>مراقبة سلوك الطفل باستخدام الكاميرا</title>
     <style>
         body {
             font-family: 'Cairo', sans-serif;
@@ -59,8 +59,8 @@
 </head>
 <body>
 
-    <h1>مراقبة سلوك الطفل باستخدام الكاميرة</h1>
-    <p>يرجى السماح بالوصول إلى الكاميرة لتسجيل سلوكيات الطفل خلال الجلسة.</p>
+    <h1>مراقبة سلوك الطفل باستخدام الكاميرا</h1>
+    <p>يرجى السماح بالوصول إلى الكاميرا لتسجيل سلوكيات الطفل خلال الجلسة.</p>
 
     <!-- زر تشغيل الكاميرا -->
     <button id="startButton">تشغيل الكاميرا</button>
